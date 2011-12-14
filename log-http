@@ -1,0 +1,6 @@
+-------------------------
+2009.05.05 10:36:43.614466      XHttpServer::start waiting for port 80-------------------------
+2009.05.05 10:37:00.807308      XHttpServer::start waiting for port 8080
+2009.05.05 10:37:00.828802      XHttpServer::start listening on 8080
+2009.05.05 10:37:21.365163      XHttpServer::start #<Socket:0xb7d06378> new connection from 127.0.0.1:39263
+2009.05.05 10:37:40.169446      XHttpServer::start #<Socket:0xb7d06378> No Content-Length found in POST

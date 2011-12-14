@@ -1,0 +1,13 @@
+module Cfg
+   LOG_FILENAME = '/home/casino/log/http-gateway.log'
+
+   LISTENER_HOST = '195.70.36.100' #iw2.mgamesolutions.com
+   LISTENER_PORT = 80
+
+   FUN_HOST = '195.70.38.248'
+   FUN_PORT = 9010
+
+   DEMO_HOST = '195.70.36.170'
+   DEMO_PORT = 9010
+end
+

@@ -1,0 +1,510 @@
+-------------------------
+2008.10.10 13:03:33      XHttpServer::start waiting for port 16846
+2008.10.10 13:03:33      XHttpServer::start listening on 16846
+2008.10.10 13:04:05              App::run undefined method `include' for #<String:0xb7cc7830>
+-------------------------
+2008.10.10 13:05:17      XHttpServer::start waiting for port 16846
+2008.10.10 13:05:17      XHttpServer::start listening on 16846
+-------------------------
+2008.10.10 13:06:11      XHttpServer::start waiting for port 16846..................................
+2008.10.10 13:07:19      XHttpServer::start listening on 16846
+2008.10.10 13:29:36      XHttpServer::start closing port 16846
+-------------------------
+2008.10.10 13:29:37      XHttpServer::start waiting for port 16846
+2008.10.10 13:29:37      XHttpServer::start listening on 16846
+-------------------------
+2008.10.10 13:36:13      XHttpServer::start waiting for port 16846
+2008.10.10 13:36:13      XHttpServer::start listening on 16846
+-------------------------
+2008.10.10 13:36:57      XHttpServer::start waiting for port 16846...........
+2008.10.10 13:37:19      XHttpServer::start listening on 16846
+-------------------------
+2008.10.10 13:47:38      XHttpServer::start waiting for port 16846
+2008.10.10 13:47:38      XHttpServer::start listening on 16846
+-------------------------
+2008.10.10 13:51:13      XHttpServer::start waiting for port 16846
+2008.10.10 13:51:13      XHttpServer::start listening on 16846
+2008.10.10 13:51:16          Session::connect casino server is not running on localhost:9010
+2008.10.10 13:51:16          Session::communicate 1 write: 3441323337423946303030303030303030313030303130303930443632364646453830373633393545383637393534343138363430374331443842434335453744353045443931323431453836324337304636433042354430333438434337424132373342413037364344413035303045353937443630384138434430433143373335304243343231303946323343313444324441324232374331413542373745433832373435374645333446394538413637354146344431343438344244413437364334433841384135464244304331443139333736364234323534384142393833353645454337414545453742344135334241443743364546383335363639443238364544324141434443313035304333334343413637303345313145433730374636363144343645433037424544373146383541343143434634433431454634424539383444383935323641453243364631304237353933314433353744453435444238434239353932314438354530323146393443443738424642343446334235433733393143343037374332363635364237433231334637334534423537374231424535443033394135463736343343383346443730323531383732444335463246373436353843314136353736303134393731304244374231463341423343443838374546364438414142374235314341314637354142383531453732393439373044414543374336373836383831463937
+-------------------------
+2008.10.10 13:51:57      XHttpServer::start waiting for port 16846..........
+2008.10.10 13:52:17      XHttpServer::start listening on 16846
+2008.10.10 13:52:24          Session::communicate 1 write: 3441323337423946303030303030303030313030303130303930443632364646453830373633393545383637393534343138363430374331443842434335453744353045443931323431453836324337304636433042354430333438434337424132373342413037364344413035303045353937443630384138434430433143373335304243343231303946323343313444324441324232374331413542373745433832373435374645333446394538413637354146344431343438344244413437364334433841384135464244304331443139333736364234323534384142393833353645454337414545453742344135334241443743364546383335363639443238364544324141434443313035304333334343413637303345313145433730374636363144343645433037424544373146383541343143434634433431454634424539383444383935323641453243364631304237353933314433353744453435444238434239353932314438354530323146393443443738424642343446334235433733393143343037374332363635364237433231334637334534423537374231424535443033394135463736343343383346443730323531383732444335463246373436353843314136353736303134393731304244374231463341423343443838374546364438414142374235314341314637354142383531453732393439373044414543374336373836383831463937
+2008.10.10 13:52:24          Session::communicate 1 read: nil
+2008.10.10 13:52:24              App::run end of file reached
+2008.10.10 13:52:24              App::run 
+-------------------------
+2008.10.10 13:55:19      XHttpServer::start waiting for port 16846
+2008.10.10 13:55:19      XHttpServer::start listening on 16846
+2008.10.10 13:55:22          Session::communicate 1 write: 4a237b9f000000000100010090d626ffe8076395e8679544186407c1d8bcc5e7d50ed91241e862c70f6c0b5d0348cc7ba273ba076cda0500e597d608a8cd0c1c7350bc42109f23c14d2da2b27c1a5b77ec827457fe34f9e8a675af4d14484bda476c4c8a8a5fbd0c1d193766b42548ab98356eec7aeee7b4a53bad7c6ef835669d286ed2aacdc1050c33cca6703e11ec707f661d46ec07bed71f85a41ccf4c41ef4be984d89526ae2c6f10b75931d357de45db8cb95921d85e021f94cd78bfb44f3b5c7391c4077c26656b7c213f73e4b577b1be5d039a5f7643c83fd70251872dc5f2f74658c1a65760149710bd7b1f3ab3cd887ef6d8aab7b51ca1f75ab851e7294970daec7c6786881f97
+2008.10.10 13:55:23          Session::communicate 1 read: 0024651c4564f0dbf7288b6ed9adfe7a27adb502e0db4e3fa3d45dda0bd19efd0599a34ada54
+2008.10.10 13:55:23              App::run end of file reached
+2008.10.10 13:55:23              App::run 
+-------------------------
+2008.10.10 13:59:19      XHttpServer::start waiting for port 16846
+2008.10.10 13:59:19      XHttpServer::start listening on 16846
+2008.10.10 13:59:21          Session::communicate 1 write: 4a237b9f000000000100010090d626ffe8076395e8679544186407c1d8bcc5e7d50ed91241e862c70f6c0b5d0348cc7ba273ba076cda0500e597d608a8cd0c1c7350bc42109f23c14d2da2b27c1a5b77ec827457fe34f9e8a675af4d14484bda476c4c8a8a5fbd0c1d193766b42548ab98356eec7aeee7b4a53bad7c6ef835669d286ed2aacdc1050c33cca6703e11ec707f661d46ec07bed71f85a41ccf4c41ef4be984d89526ae2c6f10b75931d357de45db8cb95921d85e021f94cd78bfb44f3b5c7391c4077c26656b7c213f73e4b577b1be5d039a5f7643c83fd70251872dc5f2f74658c1a65760149710bd7b1f3ab3cd887ef6d8aab7b51ca1f75ab851e7294970daec7c6786881f97
+2008.10.10 13:59:21          Session::communicate 1 read: 002483b9c36a90f7f7608b6ed9adfe7a27ad22127f5f4e3fe3e4016d3ddc9efde42c189fff61
+-------------------------
+2008.10.10 14:01:55      XHttpServer::start waiting for port 16846
+2008.10.10 14:01:55      XHttpServer::start listening on 16846
+2008.10.10 14:01:57          Session::communicate 1 write: 4a237b9f000000000100010090d626ffe8076395e8679544186407c1d8bcc5e7d50ed91241e862c70f6c0b5d0348cc7ba273ba076cda0500e597d608a8cd0c1c7350bc42109f23c14d2da2b27c1a5b77ec827457fe34f9e8a675af4d14484bda476c4c8a8a5fbd0c1d193766b42548ab98356eec7aeee7b4a53bad7c6ef835669d286ed2aacdc1050c33cca6703e11ec707f661d46ec07bed71f85a41ccf4c41ef4be984d89526ae2c6f10b75931d357de45db8cb95921d85e021f94cd78bfb44f3b5c7391c4077c26656b7c213f73e4b577b1be5d039a5f7643c83fd70251872dc5f2f74658c1a65760149710bd7b1f3ab3cd887ef6d8aab7b51ca1f75ab851e7294970daec7c6786881f97
+2008.10.10 14:01:57          Session::communicate 1 read: 0024f9f7bae0e05bf7a78b6ed9adfe7a27ad9498eb634e3f97d8593d473e9efd1b12fdf3d154
+-------------------------
+2008.10.10 14:03:04      XHttpServer::start waiting for port 16846
+2008.10.10 14:03:04      XHttpServer::start listening on 16846
+2008.10.10 14:03:06          Session::communicate 1 write: 4a237b9f000000000100010090d626ffe8076395e8679544186407c1d8bcc5e7d50ed91241e862c70f6c0b5d0348cc7ba273ba076cda0500e597d608a8cd0c1c7350bc42109f23c14d2da2b27c1a5b77ec827457fe34f9e8a675af4d14484bda476c4c8a8a5fbd0c1d193766b42548ab98356eec7aeee7b4a53bad7c6ef835669d286ed2aacdc1050c33cca6703e11ec707f661d46ec07bed71f85a41ccf4c41ef4be984d89526ae2c6f10b75931d357de45db8cb95921d85e021f94cd78bfb44f3b5c7391c4077c26656b7c213f73e4b577b1be5d039a5f7643c83fd70251872dc5f2f74658c1a65760149710bd7b1f3ab3cd887ef6d8aab7b51ca1f75ab851e7294970daec7c6786881f97
+2008.10.10 14:03:06          Session::communicate 1 read: 0024076ac6aae0bef7208b6ed9adfe7a27adf3f36cb24e3f91236cb9df7b9efd9cf27929750c
+2008.10.10 14:03:07              App::run undefined method `size' for nil:NilClass
+2008.10.10 14:03:07              App::run POST HTTP/1.1 normal.htmlContent-Length: 0
+Session-Id: 1
+Connection: close
+2008.10.10 14:03:09              App::run undefined method `size' for nil:NilClass
+2008.10.10 14:03:09              App::run POST HTTP/1.1 normal.htmlContent-Length: 0
+Session-Id: 1
+Connection: close
+2008.10.10 14:03:10              App::run undefined method `size' for nil:NilClass
+2008.10.10 14:03:10              App::run POST HTTP/1.1 normal.htmlContent-Length: 0
+Session-Id: 1
+Connection: close
+2008.10.10 14:03:54      XHttpServer::start closing port 16846
+-------------------------
+2008.10.10 14:04:37      XHttpServer::start waiting for port 16846
+2008.10.10 14:04:37      XHttpServer::start listening on 16846
+2008.10.10 14:04:40          Session::communicate 1 write: 4a237b9f000000000100010090d626ffe8076395e8679544186407c1d8bcc5e7d50ed91241e862c70f6c0b5d0348cc7ba273ba076cda0500e597d608a8cd0c1c7350bc42109f23c14d2da2b27c1a5b77ec827457fe34f9e8a675af4d14484bda476c4c8a8a5fbd0c1d193766b42548ab98356eec7aeee7b4a53bad7c6ef835669d286ed2aacdc1050c33cca6703e11ec707f661d46ec07bed71f85a41ccf4c41ef4be984d89526ae2c6f10b75931d357de45db8cb95921d85e021f94cd78bfb44f3b5c7391c4077c26656b7c213f73e4b577b1be5d039a5f7643c83fd70251872dc5f2f74658c1a65760149710bd7b1f3ab3cd887ef6d8aab7b51ca1f75ab851e7294970daec7c6786881f97
+2008.10.10 14:04:40          Session::communicate 1 read: 0024fa83c2e3504dc7858b6ed9adfe7a27ad849d2d204e3f751286962d189efd0d057b89a7d3
+-------------------------
+2008.10.10 14:07:25      XHttpServer::start waiting for port 16846
+2008.10.10 14:07:25      XHttpServer::start listening on 16846
+2008.10.10 14:07:42      XHttpServer::start closing port 16846
+-------------------------
+2008.10.10 14:07:43      XHttpServer::start waiting for port 16846
+2008.10.10 14:07:43      XHttpServer::start listening on 16846
+2008.10.10 14:07:46          Session::communicate 1 write: 4a237b9f000000000100010090d626ffe8076395e8679544186407c1d8bcc5e7d50ed91241e862c70f6c0b5d0348cc7ba273ba076cda0500e597d608a8cd0c1c7350bc42109f23c14d2da2b27c1a5b77ec827457fe34f9e8a675af4d14484bda476c4c8a8a5fbd0c1d193766b42548ab98356eec7aeee7b4a53bad7c6ef835669d286ed2aacdc1050c33cca6703e11ec707f661d46ec07bed71f85a41ccf4c41ef4be984d89526ae2c6f10b75931d357de45db8cb95921d85e021f94cd78bfb44f3b5c7391c4077c26656b7c213f73e4b577b1be5d039a5f7643c83fd70251872dc5f2f74658c1a65760149710bd7b1f3ab3cd887ef6d8aab7b51ca1f75ab851e7294970daec7c6786881f97
+2008.10.10 14:07:46          Session::communicate 1 read: 0024ce9df23207fde7db8b6ed9adfe7a27ad34f39fe84e3f6cfd261500cd9efd3900b13fa117
+2008.10.10 14:07:47          Session::communicate 1 write: 
+2008.10.10 14:07:47          Session::communicate 1 read: nil
+2008.10.10 14:07:48          Session::communicate 1 write: 
+2008.10.10 14:07:48          Session::communicate 1 read: nil
+2008.10.10 14:07:50          Session::communicate 1 write: 
+2008.10.10 14:07:50          Session::communicate 1 read: nil
+2008.10.10 14:08:48      XHttpServer::start closing port 16846
+-------------------------
+2008.10.10 14:12:12      XHttpServer::start waiting for port 16846
+2008.10.10 14:12:12      XHttpServer::start listening on 16846
+2008.10.10 14:12:14          Session::communicate 1 write: 4a237b9f000000000100010090d626ffe8076395e8679544186407c1d8bcc5e7d50ed91241e862c70f6c0b5d0348cc7ba273ba076cda0500e597d608a8cd0c1c7350bc42109f23c14d2da2b27c1a5b77ec827457fe34f9e8a675af4d14484bda476c4c8a8a5fbd0c1d193766b42548ab98356eec7aeee7b4a53bad7c6ef835669d286ed2aacdc1050c33cca6703e11ec707f661d46ec07bed71f85a41ccf4c41ef4be984d89526ae2c6f10b75931d357de45db8cb95921d85e021f94cd78bfb44f3b5c7391c4077c26656b7c213f73e4b577b1be5d039a5f7643c83fd70251872dc5f2f74658c1a65760149710bd7b1f3ab3cd887ef6d8aab7b51ca1f75ab851e7294970daec7c6786881f97
+2008.10.10 14:12:14          Session::communicate 1 read: 0024ae2309989119c7718b6ed9adfe7a27ad487f28c64e3fdc3895759e889efd46a8d9fe8cd4
+2008.10.10 14:12:15          Session::communicate 1 write: 
+2008.10.10 14:12:15          Session::communicate 1 read: nil
+2008.10.10 14:12:17          Session::communicate 1 write: 
+2008.10.10 14:12:17          Session::communicate 1 read: nil
+2008.10.10 14:12:18          Session::communicate 1 write: 
+2008.10.10 14:12:18          Session::communicate 1 read: nil
+2008.10.10 14:13:48      XHttpServer::start closing port 16846
+-------------------------
+2008.10.10 14:13:49      XHttpServer::start waiting for port 16846
+2008.10.10 14:13:49      XHttpServer::start listening on 16846
+2008.10.10 14:13:51          Session::communicate 1 write: 4a237b9f000000000100010090d626ffe8076395e8679544186407c1d8bcc5e7d50ed91241e862c70f6c0b5d0348cc7ba273ba076cda0500e597d608a8cd0c1c7350bc42109f23c14d2da2b27c1a5b77ec827457fe34f9e8a675af4d14484bda476c4c8a8a5fbd0c1d193766b42548ab98356eec7aeee7b4a53bad7c6ef835669d286ed2aacdc1050c33cca6703e11ec707f661d46ec07bed71f85a41ccf4c41ef4be984d89526ae2c6f10b75931d357de45db8cb95921d85e021f94cd78bfb44f3b5c7391c4077c26656b7c213f73e4b577b1be5d039a5f7643c83fd70251872dc5f2f74658c1a65760149710bd7b1f3ab3cd887ef6d8aab7b51ca1f75ab851e7294970daec7c6786881f97
+2008.10.10 14:13:51          Session::communicate 1 read: 00240eb3c21a0707f76e8b6ed9adfe7a27ad4516d3e44e3feb9f3f42a0b49efd3ef24a265987
+2008.10.10 14:13:52          Session::communicate 1 write: 
+2008.10.10 14:13:53          Session::communicate 1 read: nil
+2008.10.10 14:13:54          Session::communicate 1 write: 
+2008.10.10 14:13:54          Session::communicate 1 read: nil
+2008.10.10 14:13:55          Session::communicate 1 write: 
+2008.10.10 14:13:55          Session::communicate 1 read: nil
+2008.10.10 14:14:38      XHttpServer::start closing port 16846
+-------------------------
+2008.10.10 14:14:57      XHttpServer::start waiting for port 16846
+2008.10.10 14:14:57      XHttpServer::start listening on 16846
+2008.10.10 14:15:00          Session::communicate 1 write: 4a237b9f000000000100010090d626ffe8076395e8679544186407c1d8bcc5e7d50ed91241e862c70f6c0b5d0348cc7ba273ba076cda0500e597d608a8cd0c1c7350bc42109f23c14d2da2b27c1a5b77ec827457fe34f9e8a675af4d14484bda476c4c8a8a5fbd0c1d193766b42548ab98356eec7aeee7b4a53bad7c6ef835669d286ed2aacdc1050c33cca6703e11ec707f661d46ec07bed71f85a41ccf4c41ef4be984d89526ae2c6f10b75931d357de45db8cb95921d85e021f94cd78bfb44f3b5c7391c4077c26656b7c213f73e4b577b1be5d039a5f7643c83fd70251872dc5f2f74658c1a65760149710bd7b1f3ab3cd887ef6d8aab7b51ca1f75ab851e7294970daec7c6786881f97
+2008.10.10 14:15:00          Session::communicate 1 read: 00240bb8be8a70c5f70e8b6ed9adfe7a27ad79775f7a4e3f19c697350b409efd1c7b2e3894a5
+2008.10.10 14:15:01          Session::communicate 1 write: 
+2008.10.10 14:15:01          Session::communicate 1 read: nil
+2008.10.10 14:15:02          Session::communicate 1 write: 
+2008.10.10 14:15:02          Session::communicate 1 read: nil
+2008.10.10 14:15:03          Session::communicate 1 write: 
+2008.10.10 14:15:03          Session::communicate 1 read: nil
+2008.10.10 14:16:35          Session::communicate 2 write: 4a237b9f000000000100010090d626ffe8076395e8679544186407c1d8bcc5e7d50ed91241e862c70f6c0b5d0348cc7ba273ba076cda0500e597d608a8cd0c1c7350bc42109f23c14d2da2b27c1a5b77ec827457fe34f9e8a675af4d14484bda476c4c8a8a5fbd0c1d193766b42548ab98356eec7aeee7b4a53bad7c6ef835669d286ed2aacdc1050c33cca6703e11ec707f661d46ec07bed71f85a41ccf4c41ef4be984d89526ae2c6f10b75931d357de45db8cb95921d85e021f94cd78bfb44f3b5c7391c4077c26656b7c213f73e4b577b1be5d039a5f7643c83fd70251872dc5f2f74658c1a65760149710bd7b1f3ab3cd887ef6d8aab7b51ca1f75ab851e7294970daec7c6786881f97
+2008.10.10 14:16:36          Session::communicate 2 read: 00242cb6962d1058c7228b6ed9adfe7a27adadefb71e4e3f56fcd66d06399efd3f67e4ad5c93
+2008.10.10 14:16:37          Session::communicate 1 write: 
+2008.10.10 14:16:37          Session::communicate 1 session disconnected
+2008.10.10 14:16:37          Session::communicate 1 end of file reached
+-------------------------
+2008.10.10 14:17:24      XHttpServer::start waiting for port 16846
+2008.10.10 14:17:25      XHttpServer::start listening on 16846
+2008.10.10 14:17:27          Session::communicate 1 write: 4a237b9f000000000100010090d626ffe8076395e8679544186407c1d8bcc5e7d50ed91241e862c70f6c0b5d0348cc7ba273ba076cda0500e597d608a8cd0c1c7350bc42109f23c14d2da2b27c1a5b77ec827457fe34f9e8a675af4d14484bda476c4c8a8a5fbd0c1d193766b42548ab98356eec7aeee7b4a53bad7c6ef835669d286ed2aacdc1050c33cca6703e11ec707f661d46ec07bed71f85a41ccf4c41ef4be984d89526ae2c6f10b75931d357de45db8cb95921d85e021f94cd78bfb44f3b5c7391c4077c26656b7c213f73e4b577b1be5d039a5f7643c83fd70251872dc5f2f74658c1a65760149710bd7b1f3ab3cd887ef6d8aab7b51ca1f75ab851e7294970daec7c6786881f97
+2008.10.10 14:17:27          Session::communicate 1 read: 0024ab1510fdf1b9d7938b6ed9adfe7a27ad7c3809e34e3f4d12ddb02a559efdd1940ecb0c63
+2008.10.10 14:17:28          Session::communicate 1 write: 
+2008.10.10 14:17:28          Session::communicate 1 read: nil
+2008.10.10 14:17:29          Session::communicate 1 write: 
+2008.10.10 14:17:29          Session::communicate 1 read: nil
+2008.10.10 14:17:31          Session::communicate 1 write: 
+2008.10.10 14:17:31          Session::communicate 1 read: nil
+2008.10.10 14:17:32          Session::communicate 1 write: 
+2008.10.10 14:17:32          Session::communicate 1 read: nil
+2008.10.10 14:17:33          Session::communicate 1 write: 
+2008.10.10 14:17:33          Session::communicate 1 read: nil
+2008.10.10 14:17:34          Session::communicate 1 write: 
+2008.10.10 14:17:34          Session::communicate 1 read: nil
+2008.10.10 14:17:36          Session::communicate 1 write: 
+2008.10.10 14:17:36          Session::communicate 1 read: nil
+2008.10.10 14:17:37          Session::communicate 1 write: 
+2008.10.10 14:17:37          Session::communicate 1 read: nil
+2008.10.10 14:17:38          Session::communicate 1 write: 
+2008.10.10 14:17:38          Session::communicate 1 read: nil
+2008.10.10 14:17:39          Session::communicate 1 write: 
+2008.10.10 14:17:39          Session::communicate 1 read: nil
+2008.10.10 14:17:41          Session::communicate 1 write: 
+2008.10.10 14:17:41          Session::communicate 1 read: nil
+2008.10.10 14:17:42          Session::communicate 1 write: 
+2008.10.10 14:17:42          Session::communicate 1 read: nil
+2008.10.10 14:17:43          Session::communicate 1 write: 
+2008.10.10 14:17:43          Session::communicate 1 read: nil
+2008.10.10 14:17:44          Session::communicate 1 write: 
+2008.10.10 14:17:44          Session::communicate 1 read: nil
+2008.10.10 14:17:46          Session::communicate 1 write: 
+2008.10.10 14:17:46          Session::communicate 1 read: nil
+2008.10.10 14:17:47          Session::communicate 1 write: 
+2008.10.10 14:17:47          Session::communicate 1 read: nil
+2008.10.10 14:17:48          Session::communicate 1 write: 
+2008.10.10 14:17:48          Session::communicate 1 read: nil
+2008.10.10 14:17:49          Session::communicate 1 write: 
+2008.10.10 14:17:49          Session::communicate 1 read: nil
+2008.10.10 14:17:51          Session::communicate 1 write: 
+2008.10.10 14:17:51          Session::communicate 1 read: nil
+2008.10.10 14:17:52          Session::communicate 1 write: 
+2008.10.10 14:17:52          Session::communicate 1 read: nil
+2008.10.10 14:17:53          Session::communicate 1 write: 
+2008.10.10 14:17:53          Session::communicate 1 read: nil
+2008.10.10 14:17:54          Session::communicate 1 write: 
+2008.10.10 14:17:54          Session::communicate 1 read: nil
+2008.10.10 14:17:56          Session::communicate 1 write: 
+2008.10.10 14:17:56          Session::communicate 1 read: nil
+2008.10.10 14:17:57          Session::communicate 1 write: 
+2008.10.10 14:17:57          Session::communicate 1 read: nil
+2008.10.10 14:17:58          Session::communicate 1 write: 
+2008.10.10 14:17:58          Session::communicate 1 read: nil
+2008.10.10 14:17:59          Session::communicate 1 write: 
+2008.10.10 14:17:59          Session::communicate 1 read: nil
+2008.10.10 14:18:01          Session::communicate 1 write: 
+2008.10.10 14:18:01          Session::communicate 1 read: nil
+2008.10.10 14:18:02          Session::communicate 1 write: 
+2008.10.10 14:18:02          Session::communicate 1 read: nil
+2008.10.10 14:18:03          Session::communicate 1 write: 
+2008.10.10 14:18:03          Session::communicate 1 read: nil
+2008.10.10 14:18:04          Session::communicate 1 write: 
+2008.10.10 14:18:04          Session::communicate 1 read: nil
+2008.10.10 14:18:06          Session::communicate 1 write: 
+2008.10.10 14:18:06          Session::communicate 1 read: nil
+2008.10.10 14:18:07          Session::communicate 1 write: 
+2008.10.10 14:18:07          Session::communicate 1 read: nil
+2008.10.10 14:18:08          Session::communicate 1 write: 
+2008.10.10 14:18:08          Session::communicate 1 read: nil
+2008.10.10 14:18:09          Session::communicate 1 write: 
+2008.10.10 14:18:09          Session::communicate 1 read: nil
+2008.10.10 14:18:11          Session::communicate 1 write: 
+2008.10.10 14:18:11          Session::communicate 1 read: nil
+2008.10.10 14:18:12          Session::communicate 1 write: 
+2008.10.10 14:18:12          Session::communicate 1 read: nil
+2008.10.10 14:18:13          Session::communicate 1 write: 
+2008.10.10 14:18:13          Session::communicate 1 read: nil
+2008.10.10 14:18:14          Session::communicate 1 write: 
+2008.10.10 14:18:15          Session::communicate 1 read: nil
+2008.10.10 14:18:16          Session::communicate 1 write: 
+2008.10.10 14:18:16          Session::communicate 1 read: nil
+2008.10.10 14:18:17          Session::communicate 1 write: 
+2008.10.10 14:18:17          Session::communicate 1 read: nil
+2008.10.10 14:18:18          Session::communicate 1 write: 
+2008.10.10 14:18:18          Session::communicate 1 read: nil
+2008.10.10 14:18:19          Session::communicate 1 write: 
+2008.10.10 14:18:20          Session::communicate 1 read: nil
+2008.10.10 14:18:21          Session::communicate 1 write: 
+2008.10.10 14:18:21          Session::communicate 1 read: nil
+2008.10.10 14:18:22          Session::communicate 1 write: 
+2008.10.10 14:18:22          Session::communicate 1 read: nil
+2008.10.10 14:18:23          Session::communicate 1 write: 
+2008.10.10 14:18:23          Session::communicate 1 read: nil
+2008.10.10 14:18:24          Session::communicate 1 write: 
+2008.10.10 14:18:25          Session::communicate 1 read: nil
+2008.10.10 14:18:26          Session::communicate 1 write: 
+2008.10.10 14:18:26          Session::communicate 1 read: nil
+2008.10.10 14:18:27          Session::communicate 1 write: 
+2008.10.10 14:18:27          Session::communicate 1 read: nil
+2008.10.10 14:18:28          Session::communicate 1 write: 
+2008.10.10 14:18:28          Session::communicate 1 read: nil
+2008.10.10 14:18:29          Session::communicate 1 write: 
+2008.10.10 14:18:30          Session::communicate 1 read: nil
+2008.10.10 14:18:31          Session::communicate 1 write: 
+2008.10.10 14:18:31          Session::communicate 1 session disconnected
+2008.10.10 14:18:31          Session::communicate 1 end of file reached
+2008.10.10 14:19:26      XHttpServer::start closing port 16846
+-------------------------
+-------------------------
+2008.11.21 10:30:38      XHttpServer::start waiting for port 80-------------------------
+2008.11.21 10:31:21      XHttpServer::start waiting for port 80-------------------------
+2008.11.21 10:32:58      XHttpServer::start waiting for port 80808-------------------------
+2008.11.21 10:33:06      XHttpServer::start waiting for port 8080-------------------------
+2008.11.21 10:33:33      XHttpServer::start waiting for port 80-------------------------
+2008.11.21 10:33:47      XHttpServer::start waiting for port 8080
+2008.11.21 10:33:47      XHttpServer::start listening on 8080
+2008.11.21 10:34:35      XHttpServer::start new connection #<Socket:0xb7c59038> from 127.0.0.1:53361
+2008.11.21 10:34:36      XHttpServer::start #<Socket:0xb7c59038> Unknown HTTP method
+2008.11.21 10:35:26      XHttpServer::start new connection #<Socket:0xb7c58840> from 127.0.0.1:41433
+2008.11.21 10:35:30      XHttpServer::start #<Socket:0xb7c58840> Unknown HTTP method
+2008.11.21 10:35:42      XHttpServer::start new connection #<Socket:0xb7c58048> from 127.0.0.1:41434
+2008.11.21 10:35:46              App::run GET asdf
+2008.11.21 10:35:46              App::run 
+
+2008.11.21 10:35:46              App::run 
+2008.11.21 10:35:46              App::run **************************************
+-------------------------
+2008.11.21 10:36:47      XHttpServer::start waiting for port 8080
+2008.11.21 10:36:47      XHttpServer::start listening on 8080
+2008.11.21 10:36:59      XHttpServer::start new connection #<Socket:0xb7d082e0> from 127.0.0.1:41435
+2008.11.21 10:37:01      XHttpServer::start #<Socket:0xb7d082e0> Unknown HTTP method
+2008.11.21 10:37:06      XHttpServer::start new connection #<Socket:0xb7d07ae8> from 127.0.0.1:41436
+2008.11.21 10:37:09              App::run GET asdf
+2008.11.21 10:37:09              App::run 
+
+2008.11.21 10:37:09              App::run 
+2008.11.21 10:37:09              App::run **************************************
+2008.11.21 10:37:09              App::error get lost
+2008.11.21 10:37:09              App::run GET asdf
+-------------------------
+2008.11.21 10:44:25      XHttpServer::start waiting for port 8080
+2008.11.21 10:44:25      XHttpServer::start listening on 8080
+2008.11.21 10:44:29      XHttpServer::start new connection #<Socket:0xb7d15274> from 127.0.0.1:40755
+2008.11.21 10:44:32              App::run GET asdf
+2008.11.21 10:44:32              App::run 
+
+2008.11.21 10:44:32              App::run 
+2008.11.21 10:44:32              App::run **************************************
+-------------------------
+2008.11.21 10:45:41      XHttpServer::start waiting for port 8080
+2008.11.21 10:45:41      XHttpServer::start listening on 8080
+2008.11.21 10:45:43      XHttpServer::start new connection #<Socket:0xb7d16214> from 127.0.0.1:42027
+2008.11.21 10:45:46              App::run GET asdf
+2008.11.21 10:45:46              App::run 
+
+2008.11.21 10:45:46              App::run 
+2008.11.21 10:45:46              App::run **************************************
+2008.11.21 10:45:46              App::run get_lost:GET asdf
+-------------------------
+2008.11.21 10:47:27      XHttpServer::start waiting for port 8080
+2008.11.21 10:47:27      XHttpServer::start listening on 8080
+2008.11.21 10:47:30      XHttpServer::start new connection #<Socket:0xb7cae1b4> from 127.0.0.1:42029
+2008.11.21 10:47:33              App::run GET asdf
+2008.11.21 10:47:33              App::run 
+
+2008.11.21 10:47:33              App::run 
+2008.11.21 10:47:33              App::run **************************************
+2008.11.21 10:47:33              App::run get_lost:GET asdf
+-------------------------
+2008.11.21 10:48:31      XHttpServer::start waiting for port 8080..
+2008.11.21 10:48:33      XHttpServer::start listening on 8080
+2008.11.21 10:48:38      XHttpServer::start new connection #<Socket:0xb7d190a4> from 127.0.0.1:42030
+2008.11.21 10:48:41              App::run GET dfs
+2008.11.21 10:48:41              App::run 
+
+2008.11.21 10:48:41              App::run 
+2008.11.21 10:48:41              App::run **************************************
+2008.11.21 10:48:41              App::run get_lost:GET dfs
+-------------------------
+2008.11.21 10:48:51      XHttpServer::start waiting for port 8080..................................................
+2008.11.21 10:49:41      XHttpServer::start listening on 8080
+2008.11.21 10:49:57      XHttpServer::start new connection #<Socket:0xb7cc80f0> from 127.0.0.1:42031
+2008.11.21 10:50:00              App::run get_lost:GET asdf
+2008.11.21 10:50:36      XHttpServer::start new connection #<Socket:0xb7cc7330> from 127.0.0.1:46980
+2008.11.21 10:50:36              App::run get_lost:GET / HTTP/1.1
+2008.11.21 10:50:36      XHttpServer::start new connection #<Socket:0xb7cc5e40> from 127.0.0.1:46981
+2008.11.21 10:50:36              App::run get_lost:GET /favicon.ico HTTP/1.1
+2008.11.21 10:51:00      XHttpServer::start new connection #<Socket:0xb7cc4950> from 127.0.0.1:46982
+2008.11.21 10:51:00              App::run get_lost:GET /index.html HTTP/1.1
+2008.11.21 10:52:09      XHttpServer::start new connection #<Socket:0xb7cc3460> from 127.0.0.1:46986
+2008.11.21 10:52:16      XHttpServer::start #<Socket:0xb7cc3460> No Content-Length found in POST
+2008.11.21 10:52:32      XHttpServer::start new connection #<Socket:0xb7cc277c> from 127.0.0.1:46987
+2008.11.21 10:54:12      XHttpServer::start #<Socket:0xb7cc277c> EOF
+-------------------------
+2008.11.21 10:55:43      XHttpServer::start waiting for port 8080
+2008.11.21 10:55:43      XHttpServer::start listening on 8080
+2008.11.21 10:55:47      XHttpServer::start #<Socket:0xb7c7f274> new connection from 127.0.0.1:53087
+2008.11.21 10:57:37      XHttpServer::start #<Socket:0xb7c7f274> EOF
+-------------------------
+2008.11.21 10:57:42      XHttpServer::start waiting for port 8080
+2008.11.21 10:57:42      XHttpServer::start listening on 8080
+2008.11.21 10:57:45      XHttpServer::start #<Socket:0xb7cc5170> new connection from 127.0.0.1:53088
+2008.11.21 11:02:31      XHttpServer::start #<Socket:0xb7cc5170> EOF
+-------------------------
+2008.11.21 11:02:58      XHttpServer::start waiting for port 8080
+2008.11.21 11:02:58      XHttpServer::start listening on 8080
+2008.11.21 11:03:00      XHttpServer::start #<Socket:0xb7d26178> new connection from 127.0.0.1:42407
+-------------------------
+2008.11.21 11:03:36      XHttpServer::start waiting for port 8080
+2008.11.21 11:03:36      XHttpServer::start listening on 8080
+2008.11.21 11:03:38      XHttpServer::start #<Socket:0xb7c4c0cc> new connection from 127.0.0.1:42408
+2008.11.21 11:03:47              App::error Unknown url: POST adsf
+2008.11.21 11:03:47      XHttpServer::start #<Socket:0xb7c4c0cc> Unknown HTTP method
+-------------------------
+2008.11.21 11:07:03      XHttpServer::start waiting for port 8080
+2008.11.21 11:07:03      XHttpServer::start listening on 8080
+2008.11.21 11:07:05      XHttpServer::start #<Socket:0xb7d3b08c> new connection from 127.0.0.1:44577
+2008.11.21 11:07:19              App::error Unknown url: POST adsf
+2008.11.21 11:07:19      XHttpServer::start #<Socket:0xb7d3b08c> Unknown HTTP method:00000
+-------------------------
+2008.11.21 11:19:16      XHttpServer::start waiting for port 8080
+2008.11.21 11:19:16      XHttpServer::start listening on 8080
+2008.11.21 11:19:18      XHttpServer::start #<Socket:0xb7ce3fd0> new connection from 127.0.0.1:35193
+2008.11.21 11:19:29              App::error Unknown url: POST adsf
+2008.11.21 11:19:29      XHttpServer::start #<Socket:0xb7ce3fd0> Unknown HTTP method:90
+2008.11.21 11:20:15      XHttpServer::start #<Socket:0xb7ce2d24> new connection from 127.0.0.1:59342
+2008.11.21 11:20:22              App::error Unknown url: POST adsf
+2008.11.21 11:20:32              App::run get_lost:GET asdf
+-------------------------
+2008.11.21 11:21:51      XHttpServer::start waiting for port 8080
+2008.11.21 11:21:51      XHttpServer::start listening on 8080
+2008.11.21 11:21:54      XHttpServer::start #<Socket:0xb7c8bf4c> new connection from 127.0.0.1:59345
+2008.11.21 11:21:56              App::run GET asdf
+2008.11.21 11:21:56              App::run get_lost:GET asdf
+-------------------------
+2008.11.21 11:22:22      XHttpServer::start waiting for port 8080...................................
+2008.11.21 11:22:57      XHttpServer::start listening on 8080
+2008.11.21 11:23:01      XHttpServer::start #<Socket:0xb7cd1664> new connection from 127.0.0.1:59346
+2008.11.21 11:23:09              App::run new request: GET ssss
+2008.11.21 11:23:09              App::run get_lost:GET ssss
+-------------------------
+2008.11.21 11:25:09      XHttpServer::start waiting for port 8080
+2008.11.21 11:25:09      XHttpServer::start listening on 8080
+2008.11.21 11:25:11      XHttpServer::start #<Socket:0xb7cd9fbc> new connection from 127.0.0.1:59347
+2008.11.21 11:25:14              App::run new request: GET 1234
+2008.11.21 11:25:14              App::run get_lost
+2008.11.21 11:25:21      XHttpServer::start #<Socket:0xb7cd9058> new connection from 127.0.0.1:37424
+2008.11.21 11:25:25      XHttpServer::start #<Socket:0xb7cd9058> No Content-Length found in POST
+2008.11.21 11:25:43      XHttpServer::start #<Socket:0xb7cd852c> new connection from 127.0.0.1:37425
+2008.11.21 11:26:36              App::run new request: POST asdf
+2008.11.21 11:26:36              App::error Unknown url: POST asdf
+2008.11.21 11:27:28      XHttpServer::start #<Socket:0xb7cd852c> EOF
+-------------------------
+2008.11.21 11:28:49      XHttpServer::start waiting for port 8080
+2008.11.21 11:28:49      XHttpServer::start listening on 8080
+2008.11.21 11:28:51      XHttpServer::start #<Socket:0xb7c8a174> new connection from 127.0.0.1:37426
+2008.11.21 11:29:07              App::run new request: POST normal.html
+2008.11.21 11:29:07              App::error Session-Id HTTP header not found
+2008.11.21 11:31:34      XHttpServer::start #<Socket:0xb7c88d9c> new connection from 127.0.0.1:49701
+2008.11.21 11:31:34              App::run new request: GET /index.html HTTP/1.1
+2008.11.21 11:31:34              App::run get_lost
+2008.11.21 11:34:33      XHttpServer::start #<Socket:0xb7c8a174> EOF
+-------------------------
+2008.11.21 11:42:58      XHttpServer::start waiting for port 8080
+2008.11.21 11:42:58      XHttpServer::start listening on 8080
+2008.11.21 11:43:03      XHttpServer::start #<Socket:0xb7cf1c5c> new connection from 127.0.0.1:49285
+2008.11.21 11:43:07              App::run get_lost
+-------------------------
+2008.11.21 11:43:58      XHttpServer::start waiting for port 8080.........
+2008.11.21 11:44:07      XHttpServer::start listening on 8080
+2008.11.21 11:44:10      XHttpServer::start #<Socket:0xb7cdd518> new connection from 127.0.0.1:49286
+2008.11.21 11:44:12              App::run get_lost
+-------------------------
+-------------------------
+2008.11.21 11:45:33      XHttpServer::start waiting for port 8080
+2008.11.21 11:45:33      XHttpServer::start listening on 8080
+2008.11.21 11:45:35      XHttpServer::start #<Socket:0xb7c8a034> new connection from 127.0.0.1:35231
+2008.11.21 11:45:38              App::run new request: 
+2008.11.21 11:45:38              App::run GET asdf
+2008.11.21 11:45:38              App::run 
+
+2008.11.21 11:45:38              App::run 
+2008.11.21 11:45:38              App::run get_lost
+2008.11.21 11:46:04      XHttpServer::start #<Socket:0xb7c88c20> new connection from 127.0.0.1:35232
+2008.11.21 11:46:04              App::run new request: 
+2008.11.21 11:46:04              App::run GET /index.html HTTP/1.1
+2008.11.21 11:46:04              App::run Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.14) Gecko/20080404 Iceweasel/2.0.0.14 (Debian-2.0.0.14-0etch1)
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-2,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cache-Control: max-age=0
+
+
+2008.11.21 11:46:04              App::run 
+2008.11.21 11:46:04              App::run get_lost
+-------------------------
+2008.11.21 11:47:16      XHttpServer::start waiting for port 8080
+2008.11.21 11:47:16      XHttpServer::start listening on 8080
+2008.11.21 11:47:19      XHttpServer::start #<Socket:0xb7cff0f0> new connection from 127.0.0.1:35233
+2008.11.21 11:47:19              App::run new request: 
+2008.11.21 11:47:19              App::run GET /index.html HTTP/1.1Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.14) Gecko/20080404 Iceweasel/2.0.0.14 (Debian-2.0.0.14-0etch1)
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-2,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cache-Control: max-age=0
+
+
+2008.11.21 11:47:19              App::run get_lost
+-------------------------
+2008.11.21 11:47:54      XHttpServer::start waiting for port 8080..........................
+2008.11.21 11:48:20      XHttpServer::start listening on 8080
+2008.11.21 11:48:23      XHttpServer::start #<Socket:0xb7ce5eac> new connection from 127.0.0.1:35234
+2008.11.21 11:48:23              App::run new request: 
+2008.11.21 11:48:23              App::run GET /index.html HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.14) Gecko/20080404 Iceweasel/2.0.0.14 (Debian-2.0.0.14-0etch1)
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-2,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cache-Control: max-age=0
+
+
+2008.11.21 11:48:24              App::run get_lost
+-------------------------
+-------------------------
+2008.11.21 11:50:56.293106      XHttpServer::start waiting for port 8080
+2008.11.21 11:50:56.312387      XHttpServer::start listening on 8080
+2008.11.21 11:51:06.187896      XHttpServer::start #<Socket:0xb7cdfef8> new connection from 127.0.0.1:53391
+2008.11.21 11:51:06.188545              App::run new request: 
+2008.11.21 11:51:06.188658              App::run GET /index.html HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.14) Gecko/20080404 Iceweasel/2.0.0.14 (Debian-2.0.0.14-0etch1)
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-2,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cache-Control: max-age=0
+
+
+2008.11.21 11:51:06.188858              App::run get_lost
+-------------------------
+2008.11.21 11:55:55.568170      XHttpServer::start waiting for port 8080
+2008.11.21 11:55:55.568658      XHttpServer::start listening on 8080
+2008.11.21 11:55:59.332983      XHttpServer::start #<Socket:0xb7c6e8d4> new connection from 127.0.0.1:57909
+2008.11.21 11:56:01.093708              App::run new request: 
+2008.11.21 11:56:01.093953              App::run GET asdf
+
+
+2008.11.21 11:56:01.094388              App::run get_lost
+2008.11.21 11:56:06.002515      XHttpServer::start #<Socket:0xb7c6d600> new connection from 127.0.0.1:57910
+2008.11.21 11:56:06.003117              App::run new request: 
+2008.11.21 11:56:06.003227              App::run GET /index.html HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.14) Gecko/20080404 Iceweasel/2.0.0.14 (Debian-2.0.0.14-0etch1)
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-2,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cache-Control: max-age=0
+
+
+2008.11.21 11:56:06.003412              App::run get_lost
