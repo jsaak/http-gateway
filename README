@@ -1,0 +1,2 @@
+socket http gateway, developed for mobile applications which can not use sockets only http
+the client needs to GET from the gateway periodically to imitate socket connection
